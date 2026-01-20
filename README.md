@@ -25,4 +25,4 @@ This notebook is organized to track my learning journey, including:
 
 ---
 
-*Last updated: [Date]*
+*Last updated: 01/19/2026*
